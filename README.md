@@ -22,7 +22,7 @@ Send print jobs
 
 3. The widget will now be available in the **Widgets** panel in Mashup Builder.
 
-🚀 Features
+ ## **🚀 Features *
 
 Check DYMO environment availability
 
@@ -34,7 +34,7 @@ Print labels directly from ThingWorx
 
 Events for completion, cancellation, popup blocked
 
-📂 Services
+ ## **📂 Services**
 🔹 CheckEnvironment
 
 Checks if the DYMO Label Framework is available.
@@ -43,7 +43,7 @@ Output: environmentJson → JSON string with DYMO environment details
 
 Events Fired: EnvironmentChecked
 
-🔹 GetPrinters
+ ## **🔹 GetPrinters**
 
 Fetches all available DYMO printers.
 
@@ -53,7 +53,7 @@ Auto-Selects: First printer if none is set
 
 Events Fired: PrintersFetched
 
-🔹 RenderLabel
+## **🔹 RenderLabel**
 
 Renders a DYMO label to a base64-encoded PNG preview.
 
@@ -69,7 +69,7 @@ Output: previewDataUrl → data:image/png;base64,... string
 
 Events Fired: Rendered
 
-🔹 PrintLabel
+ ## **🔹 PrintLabel**
 
 Sends a print job to the DYMO printer.
 
@@ -85,7 +85,7 @@ printParamsXml – (Optional) print parameters
 
 Events Fired: Printed
 
-⚡ Events
+## **⚡ Event**
 
 EnvironmentChecked → Fired after environment check
 
@@ -101,8 +101,8 @@ PopupCanceled → Fired when popup is canceled
 
 PopupBlocked → Fired when popup is blocked
 
-⚙️ Properties
-
+## **⚙️ Properties**
+ 
 printerName → Default printer to use (auto-selected if empty)
 
 labelXml → Label definition in DYMO XML format
