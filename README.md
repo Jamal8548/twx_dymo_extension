@@ -1,4 +1,4 @@
-DYMO Label Printer Extension for ThingWorx
+# **DYMO Label Printer Extension for ThingWorx**
 
 This extension integrates DYMO Label Framework into ThingWorx, enabling mashups and experiences to:
 
@@ -10,9 +10,7 @@ Render label previews
 
 Send print jobs
 
-📥 Download
 
-📥 Download Extension ZIP
 
 🚀 Features
 
@@ -29,7 +27,7 @@ Events for completion, cancellation, popup blocked
 📂 Services
 🔹 CheckEnvironment
 
-Checks if the DYMO Label Framework is available in the environment.
+Checks if the DYMO Label Framework is available.
 
 Output: environmentJson → JSON string with DYMO environment details
 
@@ -57,9 +55,7 @@ renderParamsXml – (Optional) rendering parameters
 
 printerName – (Optional) printer name
 
-Output:
-
-previewDataUrl → data:image/png;base64,... string
+Output: previewDataUrl → data:image/png;base64,... string
 
 Events Fired: Rendered
 
