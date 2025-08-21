@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Entities>
+  <ExtensionPackages>
+    <ExtensionPackage name="DymoMini_ExtensionPackage" description="DymoMini Widget" vendor="Jamal Ashraf" packageVersion="1.0.0" minimumThingWorxVersion="7.4.0"/>
+  </ExtensionPackages>
+  <Widgets>
+    <Widget name="DymoMini">
+      <UIResources>
+        <FileResource type="JS" file="DymoMini.ide.js" description="" isDevelopment="true" isRuntime="false"/>
+        <FileResource type="JS" file="DymoMini.runtime.js" description="" isDevelopment="false" isRuntime="true"/>
+      </UIResources>
+    </Widget>
+  </Widgets>
+</Entities>
+
