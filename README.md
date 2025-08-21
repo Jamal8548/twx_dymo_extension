@@ -1,5 +1,9 @@
 # **DYMO Label Printer Extension for ThingWorx**
 
+## ** dymo-connect-framework** 
+## Git [📥 This extension builds on the official DYMO Connect Framework](https://github.com/dymosoftware/dymo-connect-framework?tab=readme-ov-file) 
+
+
 This extension integrates DYMO Label Framework into ThingWorx, enabling mashups and experiences to:
 
 Detect DYMO environment
