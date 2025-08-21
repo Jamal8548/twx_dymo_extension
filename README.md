@@ -85,7 +85,7 @@ printParamsXml – (Optional) print parameters
 
 Events Fired: Printed
 
-## **⚡ Event**
+## **⚡ Events**
 
 EnvironmentChecked → Fired after environment check
 
