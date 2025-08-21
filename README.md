@@ -12,7 +12,7 @@ Send print jobs
 
 ## **📦 Installation**
 1.  ## Download 
-[📥 Download Extension ZIP](https://github.com/Jamal8548/twx-dymo_extension/raw/master/Dymo_ThingworxExtension.zip)
+[📥 Download Extension ZIP](https://github.com/Jamal8548/twx_dymo_extension/raw/master/Dymo_ThingworxExtension.zip) 
 
 
 2. In **ThingWorx Composer**:
