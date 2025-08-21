@@ -10,7 +10,17 @@ Render label previews
 
 Send print jobs
 
+## **📦 Installation**
+1.  ## Download
+[📥 Download Extension ZIP](https://github.com/Jamal8548/twx-dymo_extension/raw/main/Dymo_ThingworxExtension.zip)
 
+
+2. In **ThingWorx Composer**:
+   - Go to **Import/Export** → **Import**.
+   - Select the `.zip` file.
+   - Click **Import**.
+
+3. The widget will now be available in the **Widgets** panel in Mashup Builder.
 
 🚀 Features
 
